@@ -16,7 +16,7 @@
 
 3. What are the core 42 principles?
 
- - peer to peer learning. You can learn very fast if you talk to your friends a lots.
+ - peer to peer learning. You can learn very fast if you talk to your friends a lot.
  
  ---
 
